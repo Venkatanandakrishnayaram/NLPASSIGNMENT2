@@ -1,5 +1,6 @@
 # NLPASSIGNMENT2
 name:venkata nanda krishna yaram
+
 st,id:700765514
 
 This repository contains solutions for **Questions 1–8** from the NLP/ML assignment. Each question involves theory, calculation, or coding tasks related to classification, evaluation, and language modeling.  
