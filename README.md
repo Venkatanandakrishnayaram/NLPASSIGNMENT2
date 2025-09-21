@@ -3,7 +3,7 @@ Name:Venkata Nanda Krishna Yaram.
 
 st,id:700765514
 
-This repository contains solutions for **Questions 1–8** from the NLP/ML assignment. Each question involves theory, calculation, or coding tasks related to classification, evaluation, and language modeling.  
+This repository contains solutions for **Questions 1–8** from the NLP assignment. Each question involves theory, calculation, or coding tasks related to classification, evaluation, and language modeling.  
 
 ## **Q1 – Chain Rule of Probability**  
 - The chain rule lets us express the probability of a sentence as a product of conditional probabilities.  
