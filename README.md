@@ -1,5 +1,5 @@
 # NLPASSIGNMENT2
-name:venkata nanda krishna yaram.
+Name:Venkata Nanda Krishna Yaram.
 
 st,id:700765514
 
