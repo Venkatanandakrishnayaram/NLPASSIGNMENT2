@@ -9,7 +9,7 @@ This repository contains solutions for **Questions 1–8** from the NLP assignme
 - The chain rule lets us express the probability of a sentence as a product of conditional probabilities.  
 - Used in language modeling to break down \\( P(w_1, w_2, …, w_n) \\) into smaller terms.
  
-## **Q2 – Naïve Bayes Classification (Confusion Matrix)**  
+## **Q2 – Naive Bayes Classification (Confusion Matrix)**  
 - Computed **per-class Precision & Recall** for Cat, Dog, Rabbit.  
 - Evaluated classifier performance using confusion matrix analysis.  
 - Highlighted how metrics differ for each class.  
